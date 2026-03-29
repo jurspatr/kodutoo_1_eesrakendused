@@ -1,5 +1,23 @@
 # kodutoo-1
 
+# Patrick Jurs - Clock App
+
+## Autor
+Patrick Jurs
+
+## Funktsionaalsus (6 atribuuti)
+1. **Color** - Täiesti juhuslik HSL värv (c)
+2. **BG** - Juhuslik taustavärv (b)  
+3. **Size** - Fondi suurus (s)
+4. **Pos** - Kella asukoht (p)
+5. **12h/24h** - Kellaformaadi vahetus (h)
+6. **Theme** - Päev/öö teema (t)
+
+**Color picker** + **klahvid** c, b, s, p, h, t
+
+## Ekraanipilt
+
+
 ## Tähtaeg 01.04.2026 23:59
 
 Max 20 punkti.
